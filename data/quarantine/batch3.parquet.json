@@ -1,0 +1,7 @@
+{
+    "file": "batch3.parquet",
+    "reason": [
+        "Missing required column: name",
+        "Unexpected column: full_name"
+    ]
+}

@@ -1,0 +1,35 @@
+Pipeline Reconciliation Report
+
+------------------------------------------------
+
+batch1.parquet
+
+Input Rows      : 3
+Output Rows     : 3
+Rejected Rows   : 0
+Status          : SUCCESS
+
+------------------------------------------------
+
+batch2.parquet
+
+Input Rows      : 3
+Output Rows     : 3
+Rejected Rows   : 0
+Status          : SUCCESS
+
+------------------------------------------------
+
+batch3.parquet
+
+Input Rows      : 2
+Rejected Rows   : 2
+Status          : SCHEMA_FAILED
+
+------------------------------------------------
+
+batch4.parquet
+
+Input Rows      : 2
+Rejected Rows   : 2
+Status          : BUSINESS_FAILED

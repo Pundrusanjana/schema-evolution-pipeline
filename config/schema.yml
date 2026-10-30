@@ -1,0 +1,15 @@
+expected_schema:
+  customer_id: int64
+  name: object
+  age: int64
+
+required_columns:
+  - customer_id
+  - name
+
+primary_key:
+  - customer_id
+
+allowed_new_columns:
+  - city
+  - country

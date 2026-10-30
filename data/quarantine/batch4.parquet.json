@@ -1,0 +1,6 @@
+{
+    "file": "batch4.parquet",
+    "reason": [
+        "Found 1 duplicate customer_id values"
+    ]
+}
